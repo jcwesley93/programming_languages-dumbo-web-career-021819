@@ -12,4 +12,4 @@ languages.each do |key, value|
 end
 new_hash
 
-end 
+end
