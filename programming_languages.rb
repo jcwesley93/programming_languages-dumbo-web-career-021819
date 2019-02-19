@@ -11,5 +11,4 @@ languages.each do |key, value|
   end
 end
 new_hash
-
 end
